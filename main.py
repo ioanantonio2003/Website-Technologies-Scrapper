@@ -1,10 +1,19 @@
 import pandas as pd
 
-def domains_extraction(file_path):
+def normalization(domain):
+    return f"https://{domain}"
+
+def get_urls_normalized(file_path):
     data_frame = pd.read_parquet(file_path)
-    
-    print("\nColumns : ", data_frame.columns.tolist())
-    print(data_frame.head())
+
+    domains = data_frame['root_domain'].tolist()
+
+    normalized_urls = [normalization(domain) for domain in domains]
+
+    return normalized_urls
 
 if __name__ == "__main__":
-    domains_extraction('domains.parquet')
+    urls = get_urls_normalized('domains.parquet')
+
+    for url in urls[:3]:
+        print(url)
