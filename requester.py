@@ -10,22 +10,36 @@ HEADERS = {
 }
 
 def fetch_domain(url):
-    response = requests.get(url,headers=HEADERS, verify=False, timeout=10)
+    try:
+        response = requests.get(url,headers=HEADERS, verify=False, timeout=10)
 
-    response.raise_for_status()
+        response.raise_for_status()
 
-    return {
-        "url": url,
-        "status_code": response.status_code,
-        "html_code": response.text,
-        "headers": dict(response.headers) 
-    }
+        return {
+            "url": url,
+            "status_code": response.status_code,
+            "html_code": response.text,
+            "headers": dict(response.headers), 
+            "error" : None
+        }
+    except requests.exceptions.Timeout:
+        return {"url": url, "status_code": None, "html_code": "", "headers": {}, "error": "Timeout"}
+        
+    except requests.exceptions.ConnectionError:
+        return {"url": url, "status_code": None, "html_code": "", "headers": {}, "error": "ConnectionError"}
+        
+    except requests.exceptions.HTTPError as e:
+        return {"url": url, "status_code": e.response.status_code, "html_code": "", "headers": {}, "error": f"HTTP {e.response.status_code}"}
+        
+    except requests.exceptions.RequestException as e:
+        return {"url": url, "status_code": None, "html_code": "", "headers": {}, "error": "UnknownRequestError"}
 
 if __name__ == "__main__":
-    test = "https://example.com"
-    res = fetch_domain(test)
-
-    print(f"Status code : {res['status_code']}")
-    print(res['html_code'][:100])
-    for key, value in list(res['headers'].items())[:3]:
-        print(f"{key}: {value}")
+    res_1 = fetch_domain("https://example.com")
+    print(f"Error = {res_1['error']}")
+    
+    res_2 = fetch_domain("https://error6789.ro")
+    print(f"Error = {res_2['error']}")
+    
+    res_3 = fetch_domain("https://httpstat.us/200?sleep=15000")
+    print(f"Error = {res_3['error']}")
