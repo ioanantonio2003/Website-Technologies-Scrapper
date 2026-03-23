@@ -1,4 +1,9 @@
 from bs4 import BeautifulSoup
+import json
+
+def load_json(file_path = 'signatures.json'):
+    with open(file_path, "r", encoding="UTF-8") as f:
+        return json.load(f)
 
 def make_soup(html_content):
     if not html_content:
@@ -8,31 +13,40 @@ def make_soup(html_content):
 
     return soup
 
+def headers_analyzer(headers, signatures):
+    found = []
+
+    lower_headers = {str(k).lower() : str(v).lower() for k, v in headers.items()}
+
+    for name, rules in signatures.items():
+        if "headers" in rules:
+            for header, value in rules["headers"].items():
+                header = header.lower()
+                value = value.lower()
+
+                if header in lower_headers:
+                    actual_value = lower_headers[header]
+
+                    if value == "" or value in actual_value:
+                        found.append({
+                            "technology": name,
+                            "proof": f"Found in HTTP Headers: {header} = {actual_value}"
+                        })
+
+                        break
+
+    return found
+
 if __name__ == "__main__":
-    html_test = """
-    <!DOCTYPE html>
-    <html lang="ro">
-    <head>
-        <title>It;s Shopify</title>
-        <meta name="generator" content="Shopify">
-        <script src="https://cdn.shopify.com/s/trekkie.js"></script>
-    </head>
-    <body>
-        <h1 id="header-main">Welcome!</h1>
-        <div class="product-list">...</div>
-    </body>
-    </html>
-    """
+    s = load_json()
 
-    soup = make_soup(html_test)
+    test_headers = {
+        "Content-Type": "text/html",
+        "Server": "cloudflare-nginx", 
+        "X-Shopify-Stage": "production"
+    }
 
-    print(f"{soup.title.string}")
-    
-    meta_tag = soup.find('meta', attrs={'name': 'generator'})
-    if meta_tag:
-        print(f"*: {meta_tag['content']}")
-        
-    scripts = soup.find_all('script')
-    for script in scripts:
-        if script.get('src'):
-            print(f"script:{script['src']}")
+    res = headers_analyzer(test_headers,s)
+
+    for r in res:
+        print(f"Technology : {r['technology']} -> proof : {r['proof']}")
