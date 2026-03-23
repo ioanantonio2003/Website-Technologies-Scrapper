@@ -1,4 +1,5 @@
 import pandas as pd
+import concurrent.futures
 from requester import fetch_domain
 from analyzer import load_json, make_soup, headers_analyzer, html_analyzer
 
@@ -17,6 +18,13 @@ def get_urls_normalized(file_path):
 def single_domain(url, signatures):
     response = fetch_domain(url)
 
+    if response["error"]:
+        return {
+            "url": url,
+            "technologies": [],
+            "error": response["error"]
+        }
+
     headers = response['headers']
     soup = make_soup(response['html_code'])
 
@@ -30,18 +38,33 @@ def single_domain(url, signatures):
         "error": None
     }
 
+def all_domains(urls, signatures, max_workers = 10):
+    res = []
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers= max_workers) as executor:
+        futures = {executor.submit(single_domain, url, signatures): url for url in urls}
+
+        for i, future in enumerate(concurrent.futures.as_completed(futures), 1):
+            try:
+                re = future.result()
+                res.append(re)
+                
+                print(f"[{i}/{len(urls)}]  -> {re['url']}")
+
+            except Exception as e:
+                print(f"ERROR : {e}")
+                
+    return res
+
+
+
 if __name__ == "__main__":
     signatures = load_json()
 
-    test_url = "https://emag.ro"
-    
-    res = single_domain(test_url, signatures)
-    
+    urls = get_urls_normalized('domains.parquet')
 
-    if res["error"]:
-        print(f"Error : {res['error']}")
-    else:
-        print(f"Number of techonolgies :  {len(res['technologies'])} :")
-        for tech in res["technologies"]:
-            print(f" - {tech['technology']}")
-            print(f"   Proof: {tech['proof']}")
+    urls_test = urls[:20]
+
+    res = all_domains(urls_test, signatures, max_workers=10)
+
+    print(f"{len(res)} domains")
