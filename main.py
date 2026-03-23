@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 import concurrent.futures
 from requester import fetch_domain
 from analyzer import load_json, make_soup, headers_analyzer, html_analyzer
@@ -63,8 +64,9 @@ if __name__ == "__main__":
 
     urls = get_urls_normalized('domains.parquet')
 
-    urls_test = urls[:20]
+    res = all_domains(urls, signatures, max_workers=10)
 
-    res = all_domains(urls_test, signatures, max_workers=10)
-
-    print(f"{len(res)} domains")
+    filename = 'results.json'
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(res, f, indent=4, ensure_ascii=False)

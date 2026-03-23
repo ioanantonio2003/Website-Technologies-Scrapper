@@ -1,0 +1,3049 @@
+[
+    {
+        "url": "https://chavchavadze-m2-41-tbilisi.booked.net",
+        "technologies": [],
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://xn--kleoghvidevareservice-qfc.dk",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://xn--kleoghvidevareservice-qfc.dk/wp-content/plugins/elementor-pro/assets/js/frontend.min.js'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://xn--kleoghvidevareservice-qfc.dk/wp-includes/js/jquery/jquery.js'"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.29.1"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://trs-energycontrol.de",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://jcmobilecigars.com",
+        "technologies": [],
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://globalrn.com",
+        "technologies": [],
+        "error": "HTTP 526"
+    },
+    {
+        "url": "https://yourfamilylines.com",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://coenzwezerijnen.nu",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://231selfstorage.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-e0yxt93yeh'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://231selfstorage.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/aos.min.js?ver=2.8.13.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://231selfstorage.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.1.49'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://szentkristofudvarhaz.hu",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://szentkristofudvarhaz.hu/wp-content/themes/szentkristof1/jquery.js?ver=3.9.40'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://5starremoval.weebly.com",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://somalidisablesupport.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://somalidisablesupport.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://somalidisablesupport.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1'"
+            },
+            {
+                "technology": "Elementor 3.27.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.27.5; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://somalidisablesupport.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.9.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://3xd.co.uk",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.3xd.co.uk/wp-content/themes/custom-3xd-limited-theme/assets/js/app.js?ver=1.0.2'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.3xd.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.3xd.co.uk/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.27'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://gapconstructionwi.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://disneystore.com",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://38inspect.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.38inspect.com/wp-includes/js/jquery/jquery.min.js'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.38inspect.com/wp-content/plugins/wp-review-slider-pro-premium/public/js/wprs-slick.min.js'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.38inspect.com/wp-content/themes/enfold/config-lottie-animations/assets/lottie-player/dotlottie-player.js'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://gutendorf.ru",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.28.2"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://gutendorf.ru/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7'"
+            },
+            {
+                "technology": "WordPress 6.2.2",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.2.2\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://gutendorf.ru/wp-content/themes/gutendorf/js/script.js?ver=1.0'"
+            },
+            {
+                "technology": "WooCommerce 7.9.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WooCommerce 7.9.0\">"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'woocommerce-no-js'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://katesworldtravel.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://katesworldtravel.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.12.5'"
+            },
+            {
+                "technology": "Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://katesworldtravel.com/wp-content/plugins/bluehost-wordpress-plugin/vendor/newfold-labs/wp-module-performance/build/assets/link-prefetch.min.js?ver=4.14.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://katesworldtravel.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.27.2"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://newbeaverborough.org",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://newbeaverborough.org/wp-content/plugins/cryptx/js/cryptx.min.js?ver=4.0.10'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://newbeaverborough.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Elementor 3.35.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://largsbaychiropractic.com.au",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://rsthealthcare.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://msc-manching.de",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://msc-manching.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.4'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://msc-manching.de/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.3'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://msc-manching.de/wp-content/themes/sparkling/assets/js/vendor/bootstrap.min.js?ver=6.2.9'"
+            },
+            {
+                "technology": "WordPress 6.2.9",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.2.9\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://gogroupauto.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://sgsextremaratio.it",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.18.0 (ubuntu)"
+            },
+            {
+                "technology": "Vue.js",
+                "proof": "Found HTML signature: 'data-v-'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://fsbwyoming.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://dioxoxigenio.com.br",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://ferienwohnung-kastell.de",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://imgs.co.jp",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-154923112-2'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://clotting-guide.online",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://c0.wp.com/c/6.9.4/wp-includes/js/jquery/jquery.min.js'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.clotting-guide.online/wp-content/themes/vogue/js/jquery.caroufredsel-6.2.1-packed.js?ver=10.9.3'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.clotting-guide.online/wp-content/plugins/wpfront-notification-bar/jquery-plugins/js-cookie.min.js?ver=2.2.1'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'woocommerce-cart'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://jobresourcecentre.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://jobresourcecentre.com/wp-content/themes/superio/js/bootstrap.min.js?ver=20150330'"
+            },
+            {
+                "technology": "Elementor 3.15.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.15.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://jobresourcecentre.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://jobresourcecentre.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Powered by Slider Revolution 6.6.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 6.6.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-cb7fd4r1bf'"
+            },
+            {
+                "technology": "Redux 4.3.26",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Redux 4.3.26\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://coastwidemechanicalcentralcoast.com.au",
+        "technologies": [
+            {
+                "technology": "Divi v.4.27.6",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Divi v.4.27.6\">"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://253media.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-yr4fpt0fns'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://fisherinvestments.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://velvety.eu",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://doringpoort.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-85wl1d39l8'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://doringpoort.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0'"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://doringpoort.com/wp-content/plugins/wp-tripadvisor-review-slider/public/js/wprs-unslider-min.js?ver=9.5'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://doringpoort.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://kentpropertyrenovations.co.uk",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://kentpropertyrenovations.co.uk/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://kentpropertyrenovations.co.uk/wp-content/themes/avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1'"
+            },
+            {
+                "technology": "WordPress 6.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.0\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://familybroker.cz",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://doortodoororganics.com",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://amourfinder.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://stwannas.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://5w.design",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://5w.design/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://5w.design/wp-content/themes/semplice6/assets/js/shared.scripts.min.js?ver=6.2.6'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://5w.design/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://genesisny.net",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://huberautomotive.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://marien-apotheke-grefrath-app.de",
+        "technologies": [
+            {
+                "technology": "Vue.js",
+                "proof": "Found HTML signature: 'id=\"app\"'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://abcdpinturas.com.br",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://avocatalinamanciu.ro",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Site Kit by Google 1.106.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.106.0\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://avocatalinamanciu.ro/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.15.1'"
+            },
+            {
+                "technology": "Elementor 3.15.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.15.1; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://avocatalinamanciu.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://avocatalinamanciu.ro/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.4.4'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-273560545-1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://centreconsiliereavort.ro",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://centreconsiliereavort.ro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://centreconsiliereavort.ro/wp-content/themes/twentytwelve/js/navigation.js?ver=20250303'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://11853prospecthill.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://rionecontrastanga.net",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://rionecontrastanga.net/wp-content/themes/bridge/js/plugins/scrolltoplugin.min.js?ver=6.5.8'"
+            },
+            {
+                "technology": "Powered by Slider Revolution 5.4.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 5.4.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "Powered by LayerSlider 6.7.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by LayerSlider 6.7.5 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://rionecontrastanga.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://rionecontrastanga.net/wp-content/plugins/layerslider/static/layerslider/js/greensock.js?ver=1.19.0'"
+            },
+            {
+                "technology": "WordPress 6.5.8",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.5.8\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://empresasori.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.3.8",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.3.8\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://c0.wp.com/c/6.3.8/wp-includes/js/jquery/jquery.min.js'"
+            },
+            {
+                "technology": "Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "WooCommerce 8.5.2",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WooCommerce 8.5.2\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://empresasori.com/wp-content/themes/woodmart/js/libs/device.min.js?ver=6.1.5'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://empresasori.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.7.0'"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'woocommerce-no-js'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://4stonebuildings.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://4stonebuildings.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=10.0.3'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://4stonebuildings.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='//www.googletagmanager.com/gtag/js?id=g-8x30mhd2pv'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://4stonebuildings.com/wp-content/themes/4stone/dist/bundle.js?ver=1709546753'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://passwordstore.it",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://natedea.co.uk",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='//www.googletagmanager.com/gtag/js?id=g-bxyjvx27cp'"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.natedea.co.uk/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=10.0.3'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.natedea.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'woocommerce-cart'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://loizillon.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-hcj5mxkwj2'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://haus-muehlenfeld-pommerby.de",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://arenaskolor.se",
+        "technologies": [
+            {
+                "technology": "WordPress 6.8.5",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.8.5\">"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://arenaskolor.se/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.6'"
+            },
+            {
+                "technology": "Elementor 3.35.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://arenaskolor.se/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://arenaskolor.se/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.6'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://boken.ch",
+        "technologies": [
+            {
+                "technology": "Site Kit by Google 1.99.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.99.0\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://boken.ch/wp-content/themes/natural-lite/js/jquery.fitvids.js?ver=1.0'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://boken.ch/wp-includes/js/jquery/jquery.min.js?ver=3.6.4'"
+            },
+            {
+                "technology": "WordPress 6.2.9",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.2.9\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://maniaupiekszania.pl",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://maniaupiekszania.pl/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.4.7'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://maniaupiekszania.pl/wp-content/plugins/dethemekit-for-elementor/assets/js/jquery-1.12.4-wp.js?ver=6.9.4'"
+            },
+            {
+                "technology": "Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://maniaupiekszania.pl/wp-includes/js/imagesloaded.min.js?ver=5.0.0'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'woocommerce-cart'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://lojatatical.com.br",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-73shleer1j'"
+            },
+            {
+                "technology": "Magento",
+                "proof": "Found HTML signature: 'text/x-magento-init'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://aida-cruises.at",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://den-a-sha.co.jp",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://weducars.co.za",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://weducars.co.za/css/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockui.min.js?ver=2.7.0-wc.9.8.7'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'class=\"woocommerce'"
+            },
+            {
+                "technology": "WooCommerce 9.8.7",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WooCommerce 9.8.7\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://weducars.co.za/css/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Site Kit by Google 1.152.1",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.152.1\">"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "Elementor 3.28.4; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.28.4; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "Powered by Slider Revolution 6.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 6.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-vc52g0gyty'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://weducars.co.za/css/wp-content/themes/betheme/js/plugins/debouncedresize.min.js?ver=28.0.6'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://restwellstreetmedicalcentre.com.au",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-fxn3lyrq8y'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://sprucemeadowsmd.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://sprucemeadowsmd.com/wp-content/plugins/accessibility-new-window-warnings/assets/js/accessibility-new-window-warnings-min.js?ver=1.2.0'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://sprucemeadowsmd.com/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.4.2'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://sprucemeadowsmd.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://lets.gr",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "React",
+                "proof": "Found HTML signature: 'id=\"root\"'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://infoaboutnetwork.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.infoaboutnetwork.com/wp-content/plugins/wp-show-posts/js/jquery.matchheight.js?ver=1.1.5'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.infoaboutnetwork.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.3.1'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.infoaboutnetwork.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://2020wealthadvisory.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2020wealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2020wealthadvisory.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2020wealthadvisory.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://itsolutions24.pl",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://itsolutions24.pl/wp-content/themes/titan-digital-agency/assets/js/custom-script.js?ver=1'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://itsolutions24.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://aaice.net",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://aaice.net/wp-content/themes/divi/js/scripts.min.js?ver=4.27.6'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://aaice.net/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.2.6'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://aaice.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Divi v.4.27.6",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Divi v.4.27.6\">"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://mehmetefendimacedonia.com",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://dssfla.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Everest Forms 3.1.2",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Everest Forms 3.1.2\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-lngtvs4xd4'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.dssfla.com/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.dssfla.com/wp-includes/js/jquery/jquery.min.js'"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.25.5"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://2ldm.com",
+        "technologies": [
+            {
+                "technology": "Site Kit by Google 1.174.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.174.0\">"
+            },
+            {
+                "technology": "Vue.js",
+                "proof": "Found HTML signature: 'data-v-'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2ldm.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=10.0.3'"
+            },
+            {
+                "technology": "Elementor 3.35.7; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2ldm.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=14.2.1.1'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='//www.googletagmanager.com/gtag/js?id=g-8472x4gstk'"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: cf-ray = 9e0ce4d87eac361d-fra"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2ldm.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://laplumedelisibilite.fr",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=<!-- google tag (gtag.js) --> <script async src='"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://skywayrestaurants.net",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Elementor 3.30.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.30.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://skywayrestaurants.net/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.30.3'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://skywayrestaurants.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://skywayrestaurants.net/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.12.5'"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.27.2"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://365outsource.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.365outsource.com/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.12.4'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.365outsource.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.365outsource.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.12.5'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-8749295-4'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://1planettechnologies.weebly.com",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://hnafirm.com",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx/1.18.0 (ubuntu)"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://produkttheater.de",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://soziale-dreigliederung.de",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://cytofastmed.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://seringa-safaris.com",
+        "technologies": [
+            {
+                "technology": "Joomla! - Open Source Content Management",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Joomla! - Open Source Content Management\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-126019429-15'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://antikebau.de",
+        "technologies": [],
+        "error": "HTTP 500"
+    },
+    {
+        "url": "https://bas-ingenieria.cl",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://premierhomeremodeling.net",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "Next.js",
+                "proof": "Found HTML signature: 'id=\"__next\"'"
+            },
+            {
+                "technology": "React",
+                "proof": "Found HTML signature: 'id=\"__next\"'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://westchesterpointechiro.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-128392001-1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://unnames.com",
+        "technologies": [
+            {
+                "technology": "Shopify",
+                "proof": "Found HTML signature: 'shopify-section'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://3strandschurch.org",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3strandschurch.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3strandschurch.org/wp-content/plugins/modern-events-calendar/assets/js/jquery.typewatch.js?ver=7.30.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3strandschurch.org/wp-content/themes/pro/cornerstone/assets/js/site/cs-classic.7.7.13.js?ver=7.7.13'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://resourceservicesolutions.com",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://skywardspeech.com.au",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://nielsbirk.dk",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://sevecoitalia.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://roccofortehotels.cn",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://europeaninns.com",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://handycars.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://cultivateventures.co.nz",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://cei-expertises.fr",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.cei-expertises.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.cei-expertises.fr/wp-content/themes/divi/js/scripts.min.js?ver=4.27.4'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.cei-expertises.fr/wp-content/plugins/divi-pixel/dist/public/js/public.min.js?ver=2.46.1'"
+            },
+            {
+                "technology": "WordPress 6.8.5",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.8.5\">"
+            },
+            {
+                "technology": "THEMEENFANT v.1.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"THEMEENFANT v.1.0\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://amaronbattery.in",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://massageforworldpeace.com",
+        "technologies": [
+            {
+                "technology": "IONOS MyWebsite",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"IONOS MyWebsite\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://weissbauchpapageien.de",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://phucankhanggroup.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://radxmobile.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://3bsexcavating.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3bsexcavating.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.18.1'"
+            },
+            {
+                "technology": "Divi Child v.1.0.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Divi Child v.1.0.0\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3bsexcavating.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3bsexcavating.com/wp-content/themes/divi/js/scripts.min.js?ver=4.17.6'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://hansis-knusperhendl-foodtruck.eatbu.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://2-com.net",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-ty0xg5mcqr'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://959marine.com",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://broganlmt.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://juanmunozhomesmart.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://solvos.nl",
+        "technologies": [
+            {
+                "technology": "Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "WordPress 6.9.1",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.1\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.solvos.nl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.solvos.nl/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.6'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.solvos.nl/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.5'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://261welfarefund.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.261welfarefund.com/wp-content/themes/forwardtrends-custom-theme-simple/prettyphoto/js/jquery.prettyphoto.js'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://3dwealthadvisory.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3dwealthadvisory.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3dwealthadvisory.com/wp-content/themes/divi/js/scripts.min.js?ver=4.27.6'"
+            },
+            {
+                "technology": "Divi v.4.27.6",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Divi v.4.27.6\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://3dwealthadvisory.com/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=3.1.17'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://everhartsoutdoor.com",
+        "technologies": [],
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://nevsproductions.com",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "Odoo",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Odoo\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-x9g9mtek1l'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://buchhaltungsservice-koenig.de",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://buchhaltungsservice-koenig.de/wp-content/themes/catch-box/js/menu.min.js?ver=2.1.1.1'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2.4.66 (unix)"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://buchhaltungsservice-koenig.de/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://orifoodsco.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://alabamabuildingcontractor.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.alabamabuildingcontractor.com/wp-content/themes/divi/js/scripts.min.js?ver=4.22.2'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "Divi v.4.22.2",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Divi v.4.22.2\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.alabamabuildingcontractor.com/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.4.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.alabamabuildingcontractor.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://deerfieldbeachautomall.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://branson-connection.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://ecolab.com",
+        "technologies": [],
+        "error": "Timeout"
+    },
+    {
+        "url": "https://lscms.org",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://lscms.org/wp-content/themes/modak/assets/js/bootstrap.bundle.min.js?ver=5.0.2'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://lscms.org/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1764607208'"
+            },
+            {
+                "technology": "Elementor 3.35.7; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://lscms.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://insieme.stanford.edu",
+        "technologies": [
+            {
+                "technology": "Drupal 11 (https://www.drupal.org)",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Drupal 11 (https://www.drupal.org)\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-986r8te788'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://makpharma-eg.com",
+        "technologies": [
+            {
+                "technology": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Starfield Technologies; Go Daddy Website Builder 8.0.0000\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://ejc-courtage-assurances.fr",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://layer7innovations.ca",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://kande-hoikuen.ed.jp",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://lorenz-baumarkt.de",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://mysterion.hr",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://mysterion.hr/wp-content/themes/cinderella/assets/js/bootstrap.min.js?ver=1.0'"
+            },
+            {
+                "technology": "Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 5.4.6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "WordPress 5.0.22",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 5.0.22\">"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://mysterion.hr/wp-includes/js/jquery/jquery.js?ver=1.12.4'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-78921934-1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://mysterion.hr/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.6.3.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://eclairage-solaire-occitanie.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://cmc01village.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-f16v1w0meq'"
+            },
+            {
+                "technology": "Webflow",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Webflow\">"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://wglchurch.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://cmresolutions.com",
+        "technologies": [
+            {
+                "technology": "Microsoft Word 10",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Microsoft Word 10\">"
+            },
+            {
+                "technology": "NetObjects Fusion 5.0 for Windows",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"NetObjects Fusion 5.0 for Windows\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://ferrateoxidant.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://ferrateoxidant.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://ferrateoxidant.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.6'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            },
+            {
+                "technology": "WordPress 6.4.8",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.4.8\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://ferrateoxidant.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.0'"
+            },
+            {
+                "technology": "Elementor 3.22.3; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.22.3; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://disinfestazioniepiscine.it",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.disinfestazioniepiscine.it/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.4.1'"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress 4.5.32",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 4.5.32\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.disinfestazioniepiscine.it/wp-includes/js/jquery/jquery.js?ver=1.12.4'"
+            },
+            {
+                "technology": "Powered by Slider Revolution 5.2.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 5.2.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.disinfestazioniepiscine.it/wp-content/themes/ht-guardian/inc/widgets/instagram/static/js/scripts.js?ver=1.0'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://nwmotorinn.com",
+        "technologies": [
+            {
+                "technology": "React",
+                "proof": "Found HTML signature: 'data-reactroot'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://oakwell.vet",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx-rc"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://oakwell.vet/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://oakwell.vet/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.19.2'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://oakwell.vet/wp-content/plugins/widget-google-reviews/assets/js/public-main.js?ver=6.9.4.4'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://dorpsbelangen.nu",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.dorpsbelangen.nu/wp-content/themes/signify-pro/js/skip-link-focus-fix.min.js?ver=201800703'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.dorpsbelangen.nu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.dorpsbelangen.nu/wp-content/plugins/essential-widgets/public/js/essential-widgets-public.js?ver=2.2.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://littlerockafamily.de",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://sdmdjentertainment.com",
+        "technologies": [
+            {
+                "technology": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Starfield Technologies; Go Daddy Website Builder 8.0.0000\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://maiquotes.net",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.mymarylandauto.com/site/wp-content/themes/maitheme/assets/js/jquery-3.5.1.min.js'"
+            },
+            {
+                "technology": "WPML ver:4.8.5 stt:1,2;",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WPML ver:4.8.5 stt:1,2;\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2.4.37"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.mymarylandauto.com/site/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.min.js?ver=1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://howellmotors.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://powercleaning.services",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://powercleaning.services/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-grt6bxczg5'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://evelynanders.com",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2.4.66 (unix)"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://jenniferbacksteininteriors.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://ideenhunger.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-4691echtym'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://domekvefaru.com",
+        "technologies": [
+            {
+                "technology": "Webnode 2",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Webnode 2\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://stoperbis.pl",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://northshoremacnut.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://a3sec.com",
+        "technologies": [
+            {
+                "technology": "HubSpot",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"HubSpot\">"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-bggeq32b1j'"
+            },
+            {
+                "technology": "Hotjar",
+                "proof": "Found in Scripts: src='https://script.hotjar.com/modules.8da33a8f469c3b5ffcec.js'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://elcolegiocongresosyrestaurante.com",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://allegrocreditbeta.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://jonesbuickgmc.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://gitesducharmois.fr",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://la-residenza-del-principe-rome-it.booked.net",
+        "technologies": [],
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://costa-coffee.be",
+        "technologies": [],
+        "error": "Timeout"
+    },
+    {
+        "url": "https://concrete-fitness.edan.io",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-g6zdt5fqkw'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://xn--jobvrkstedet-9cb.nu",
+        "technologies": [
+            {
+                "technology": "WordPress 4.5.32",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 4.5.32\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://xn--jobvrkstedet-9cb.nu/wp-includes/js/jquery/jquery.js?ver=1.12.4'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://xn--jobvrkstedet-9cb.nu/wp-content/themes/zerif-lite/js/bootstrap.min.js?ver=20120206'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://hoffmaninstitute.co.uk",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://hoffmaninstitute.co.uk/wp-content/themes/polaris-fw/javascripts/js-kick-starter/js-kick-starter-min.js?ver=1.0.0'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'class=\"woocommerce'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://hoffmaninstitute.co.uk/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockui.min.js?ver=2.7.0-wc.10.6.1'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WooCommerce 10.6.1",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WooCommerce 10.6.1\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://hoffmaninstitute.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://brucebournesold.com",
+        "technologies": [],
+        "error": "HTTP 403"
+    },
+    {
+        "url": "https://appelpsychotherapy.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://pcb-cpb.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://startravelcompany.com",
+        "technologies": [],
+        "error": "Timeout"
+    },
+    {
+        "url": "https://11thhourracing.org",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://11thhourracing.org/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Vue.js",
+                "proof": "Found HTML signature: 'id=\"app\"'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://jackwills.com",
+        "technologies": [],
+        "error": "Timeout"
+    },
+    {
+        "url": "https://3-energie-klaas.de",
+        "technologies": [
+            {
+                "technology": "React",
+                "proof": "Found HTML signature: 'id=\"root\"'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://nicholsonchiro.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://nicholsonchiro.com/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=2.1.0'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://nicholsonchiro.com/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://nicholsonchiro.com/wp-content/themes/mts_schema/js/customscript.js?ver=83172ef623831a091b4d7ded2fd9b7ec'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-cs7b4q6t4l'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://bata.edu.hu",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://bata.edu.hu/wp-content/themes/parabola/js/frontend.js?ver=2.4.0.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://bata.edu.hu/wp-content/plugins/wp-accessibility/js/wpa-toolbar.min.js?ver=2.3.2'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://bata.edu.hu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://1ststopsupply.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://1ststopsupply.com/wp-content/plugins/bb-plugin/js/libs/jquery.imagesloaded.min.js?ver=2.10.1.2'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://1ststopsupply.com/wp-content/themes/mavideaherotheme-master/js/theme.min.js?ver=0.4.7'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://1ststopsupply.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://redpants.jp",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://freo.com.au",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://chiantifiorentino.it",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua -42007114-1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://miratrade.com.tr",
+        "technologies": [
+            {
+                "technology": "WordPress 5.7.12",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 5.7.12\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://amofta.com/wp-content/themes/elessi-theme/assets/js/min/jquery.cookie.min.js'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'class=\"woocommerce'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://amofta.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://labdemo.com",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://labdemo.com/wp/wp-includes/js/jquery/jquery.min.js'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://wrinkle-pei.cz",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://davidloeppke.com",
+        "technologies": [
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=ua-43807950-1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://2agateway.com",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2agateway.com/wp-content/plugins/max-addons-pro-bricks/assets/js/frontend.min.js?ver=1.6.2'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://2agateway.com/wp-content/themes/bricks/assets/js/bricks.min.js?ver=1710440575'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            },
+            {
+                "technology": "Site Kit by Google 1.122.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.122.0\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://ledestjernenstu.dk",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://ledestjernenstu.dk/wp-content/themes/construction-light/assets/js/wow.js?ver=1'"
+            },
+            {
+                "technology": "WordPress 6.9.1",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.1\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://ledestjernenstu.dk/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.3'"
+            },
+            {
+                "technology": "Site Kit by Google 1.144.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.144.0\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://ledestjernenstu.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://koniczynka.info.pl",
+        "technologies": [
+            {
+                "technology": "Site Kit by Google 1.174.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.174.0\">"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'class=\"woocommerce'"
+            },
+            {
+                "technology": "koniczynka v.1.0.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"koniczynka v.1.0.0\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.koniczynka.info.pl/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.6.3'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.koniczynka.info.pl/wp-content/themes/divi/js/scripts.min.js?ver=4.21.1'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache/2"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.koniczynka.info.pl/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://aardvarkelectriccorp.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://tamcconstruction.net",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://tamcconstruction.net/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=2.7'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://tamcconstruction.net/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=3.0.5'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://tamcconstruction.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://abbikadabbisbakingco.com",
+        "technologies": [
+            {
+                "technology": "Square Online",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Square Online\">"
+            },
+            {
+                "technology": "Vue.js",
+                "proof": "Found HTML signature: 'id=\"app\"'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://herbalwise.ie",
+        "technologies": [
+            {
+                "technology": "Shopify",
+                "proof": "Found HTML signature: 'shopify-section'"
+            },
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://thomasrosenbaum.com",
+        "technologies": [],
+        "error": null
+    },
+    {
+        "url": "https://celiabedilia.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://needaphysio.com",
+        "technologies": [
+            {
+                "technology": "Wix.com Website Builder",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Wix.com Website Builder\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://100wwcstlw.org",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://1stclairavewest.com",
+        "technologies": [],
+        "error": "ConnectionError"
+    },
+    {
+        "url": "https://joseph-herber.business.site",
+        "technologies": [],
+        "error": "HTTP 404"
+    },
+    {
+        "url": "https://fluxar.com.ar",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.fluxar.com.ar/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.js?ver=1774263243'"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=g-56q29fk9b1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.fluxar.com.ar/wp-includes/js/tinymce/tinymce.min.js?ver=49110-20250317'"
+            },
+            {
+                "technology": "All in One SEO (AIOSEO) 4.9.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"All in One SEO (AIOSEO) 4.9.0\">"
+            },
+            {
+                "technology": "WordPress 6.8.3",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.8.3\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.fluxar.com.ar/wp-content/themes/tesseract/js/modernizr.custom.min.js?ver=1.0.0'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://5rcircleprocess.weebly.com",
+        "technologies": [
+            {
+                "technology": "Cloudflare",
+                "proof": "Found in HTTP Headers: server = cloudflare"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://shapirolawfirm.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.3.8",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.3.8\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://shapirolawfirm.com/wp-content/themes/carina/resources/js/carina-main.js?ver=1.0.0'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://shapirolawfirm.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://shapirolawfirm.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2'"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://deepseass.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Site Kit by Google 1.174.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.174.0\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.deepseass.com/wp-content/themes/twentyseventeen/assets/js/global.js?ver=20211130'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.deepseass.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://www.deepseass.com/wp-content/plugins/so-widgets-bundle/js/jquery.cycle.min.js?ver=1.71.0'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://lighthouseprc.org",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://lighthouseprc.org/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js'"
+            },
+            {
+                "technology": "Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by Slider Revolution 6.5.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.\">"
+            },
+            {
+                "technology": "Powered by WPBakery Page Builder - drag and drop page builder for WordPress.",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Powered by WPBakery Page Builder - drag and drop page builder for WordPress.\">"
+            },
+            {
+                "technology": "WP Rocket 3.21.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WP Rocket 3.21.0\">"
+            },
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://arol.cl",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://unitedveterinaryservice.com",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://unitedveterinaryservice.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://unitedveterinaryservice.com/wp-content/plugins/bt_cost_calculator/jquery.dd.js?ver=6.9.4'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://unitedveterinaryservice.com/wp-content/themes/medicare/js/slick.min.js?ver=6.9.4'"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'woocommerce-cart'"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://construccionesyatecnicas.com",
+        "technologies": [
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://joburgheritage.org.za",
+        "technologies": [
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            },
+            {
+                "technology": "Site Kit by Google 1.174.0",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Site Kit by Google 1.174.0\">"
+            },
+            {
+                "technology": "WooCommerce",
+                "proof": "Found HTML signature: 'class=\"woocommerce'"
+            },
+            {
+                "technology": "Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"Elementor 3.35.7; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto\">"
+            },
+            {
+                "technology": "Nginx",
+                "proof": "Found in HTTP Headers: server = nginx"
+            },
+            {
+                "technology": "Google Analytics",
+                "proof": "Found in Scripts: src='https://www.googletagmanager.com/gtag/js?id=gt-tng7dspn'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://joburgheritage.org.za/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.12.5'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://joburgheritage.org.za/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockui.min.js?ver=2.7.0-wc.10.6.1'"
+            },
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://joburgheritage.org.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1'"
+            },
+            {
+                "technology": "WooCommerce 10.6.1",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WooCommerce 10.6.1\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://rivithead.com",
+        "technologies": [
+            {
+                "technology": "Apache",
+                "proof": "Found in HTTP Headers: server = apache"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://bfnelson.it",
+        "technologies": [
+            {
+                "technology": "WordPress",
+                "proof": "Found in Scripts: src='https://bfnelson.it/wp-content/plugins/breakdance/plugin/global-scripts/breakdance-utils.js?bd_ver=2.6.1'"
+            },
+            {
+                "technology": "WordPress 6.9.4",
+                "proof": "Found in HTML: <meta name=\"generator\" content=\"WordPress 6.9.4\">"
+            }
+        ],
+        "error": null
+    },
+    {
+        "url": "https://sindacatobadanti.it",
+        "technologies": [],
+        "error": "HTTP 503"
+    },
+    {
+        "url": "https://1stlocksheathscouts.org.uk",
+        "technologies": [],
+        "error": "Timeout"
+    },
+    {
+        "url": "https://footasylum.com",
+        "technologies": [],
+        "error": "Timeout"
+    },
+    {
+        "url": "https://verticalcommunitychurch.com",
+        "technologies": [],
+        "error": "Timeout"
+    }
+]
