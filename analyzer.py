@@ -111,6 +111,20 @@ def html_analyzer(soup, signatures):
                 except re.error:
                     pass
 
+        if "dom" in rules:
+            for css_selector in rules["dom"]:
+                try:
+                    element = soup.select_one(css_selector)
+
+                    if element:
+                        found.append({
+                            "technology": name,
+                            "proof": f"Found HTML element that matches CSS selector: {css_selector}"
+                        })
+                        break
+                except Exception:
+                    pass
+
     return found
 
 
