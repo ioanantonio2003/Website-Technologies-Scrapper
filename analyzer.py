@@ -53,15 +53,16 @@ def cookies_analyzer(cookies, signatures):
                 if cookie_name in lower_cookies:
                     actual_value = lower_cookies[cookie_name]
 
-                try:
-                    if pattern == "" or re.search(pattern, actual_value, re.IGNORECASE):
-                        found.append({
-                            "technology" : name,
-                            "proof": f"Found in Cookies: {cookie_name} matched regex {pattern}"
-                        })
-                        break
-                except re.error:
-                    pass
+                    try:
+                        if pattern == "" or re.search(pattern, actual_value, re.IGNORECASE):
+                            found.append({
+                                "technology" : name,
+                                "proof": f"Found in Cookies: {cookie_name} matched regex {pattern}"
+                            })
+                            break
+                    except re.error:
+                        pass
+    return found
 
 
 def html_analyzer(soup, signatures):

@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import concurrent.futures
 from requester import fetch_domain
-from analyzer import load_json, make_soup, headers_analyzer, html_analyzer
+from analyzer import load_json, make_soup, headers_analyzer, html_analyzer, cookies_analyzer
 
 def normalization(domain):
     return f"https://{domain}"
@@ -27,15 +27,24 @@ def single_domain(url, signatures):
         }
 
     headers = response['headers']
+    cookies = response.get('cookies', {})
     soup = make_soup(response['html_code'])
 
-    all = headers_analyzer(headers, signatures) + html_analyzer(soup, signatures)
+    found = []
+    found.extend(headers_analyzer(headers, signatures))
+    found.extend(cookies_analyzer(cookies, signatures))
+    found.extend(html_analyzer(soup, signatures))
 
-    unique = [dict(t) for t in {tuple(d.items()) for d in all}]
+    unique = {}
+
+    for t in found:
+        if t['technology'] not in unique:
+            unique[t['technology']] = t
+
 
     return {
         "url": url,
-        "technologies": unique,
+        "technologies": list(unique.values()),
         "error": None
     }
 
@@ -50,7 +59,9 @@ def all_domains(urls, signatures, max_workers = 10):
                 re = future.result()
                 res.append(re)
                 
-                print(f"[{i}/{len(urls)}]  -> {re['url']}")
+                technology_counter = len(re['technologies'])
+                status = f"ERROR: {re['error']}" if re['error'] else f"Found {technology_counter} techs"
+                print(f"[{i}/{len(urls)}] -> {re['url']} | {status}")
 
             except Exception as e:
                 print(f"ERROR : {e}")
