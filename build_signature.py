@@ -51,6 +51,8 @@ def database():
                             rules['dom'] = list(tech_data['dom'].keys())
                         elif isinstance(tech_data['dom'], str):
                             rules['dom'] = [tech_data['dom']]
+                    if 'js' in tech_data:
+                        rules['js'] = list(tech_data['js'].keys())
                             
                     if rules:
                         signatures[name] = rules
