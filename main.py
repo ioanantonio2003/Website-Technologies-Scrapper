@@ -48,7 +48,7 @@ def single_domain(url, signatures):
         "error": None
     }
 
-def all_domains(urls, signatures, max_workers = 10):
+def all_domains(urls, signatures, max_workers = 3):
     res = []
 
     with concurrent.futures.ThreadPoolExecutor(max_workers= max_workers) as executor:
@@ -75,7 +75,7 @@ if __name__ == "__main__":
 
     urls = get_urls_normalized('domains.parquet')
 
-    res = all_domains(urls, signatures, max_workers=10)
+    res = all_domains(urls, signatures, max_workers=3)
 
     filename = 'results.json'
     
