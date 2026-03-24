@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import json
+import re
 
 def load_json(file_path = 'signatures.json'):
     with open(file_path, "r", encoding="UTF-8") as f:
@@ -16,26 +17,52 @@ def make_soup(html_content):
 def headers_analyzer(headers, signatures):
     found = []
 
-    lower_headers = {str(k).lower() : str(v).lower() for k, v in headers.items()}
+    lower_headers = {str(k).lower() : str(v) for k, v in headers.items()}
 
     for name, rules in signatures.items():
         if "headers" in rules:
-            for header, value in rules["headers"].items():
+            for header, pattern in rules["headers"].items():
                 header = header.lower()
-                value = value.lower()
 
                 if header in lower_headers:
                     actual_value = lower_headers[header]
+                    
+                    try:
+                        if pattern == "" or re.search(pattern, actual_value, re.IGNORECASE):
+                            found.append({
+                                "technology": name,
+                                "proof": f"Found in HTTP Headers: {header} matched regex  {actual_value}"
+                            })
 
-                    if value == "" or value in actual_value:
-                        found.append({
-                            "technology": name,
-                            "proof": f"Found in HTTP Headers: {header} = {actual_value}"
-                        })
-
-                        break
+                            break
+                    except re.error:
+                        pass
 
     return found
+
+def cookies_analyzer(cookies, signatures):
+    found = []
+
+    lower_cookies = {str(k).lower() : str(v) for k, v in cookies.items()}
+
+    for name,rules in signatures.items():
+        if "cookies" in rules:
+            for cookie_name, pattern in rules["cookies"].items():
+                cookie_name = cookie_name.lower()
+
+                if cookie_name in lower_cookies:
+                    actual_value = lower_cookies[cookie_name]
+
+                try:
+                    if pattern == "" or re.search(pattern, actual_value, re.IGNORECASE):
+                        found.append({
+                            "technology" : name,
+                            "proof": f"Found in Cookies: {cookie_name} matched regex {pattern}"
+                        })
+                        break
+                except re.error:
+                    pass
+
 
 def html_analyzer(soup, signatures):
     found = []
@@ -54,65 +81,38 @@ def html_analyzer(soup, signatures):
             })
 
     scripts = soup.find_all('script')
-    script_s = [s.get('src').lower() for s in scripts if s.get('src')]
+    script_s = [s.get('src') for s in scripts if s.get('src')]
 
-    html_string = str(soup).lower()
+    html_string = str(soup)
 
     for name, rules in signatures.items():
         if "scripts" in rules:
-            for script in rules["scripts"]:
-                script = script.lower()
+            for pattern in rules["scripts"]:
                 for src in script_s:
-                    if script in src:
-                        found.append({
-                            "technology": name,
-                            "proof": f"Found in Scripts: src='{src}'"
-                        })
-                        break
+                    try:
+                        if re.search(pattern, src, re.IGNORECASE):
+                            found.append({
+                                "technology": name,
+                                "proof": f"Found in Scripts: {src} matched regex {pattern}"
+                            })
+                            break
+                    except re.error:
+                        pass
     
         if "html" in rules:
-            for html in rules["html"]:
-                html = html.lower()
-                if html in html_string:
-                    found.append({
-                        "technology": name,
-                        "proof": f"Found HTML signature: '{html}'"
-                    })
-                    break
+            for pattern in rules["html"]:
+                try:
+                    if re.search(pattern, html_string, re.IGNORECASE):
+                        found.append({
+                            "technology": name,
+                            "proof": f"Found HTML signature matching regex {pattern}"
+                        })
+                        break
+                except re.error:
+                    pass
 
     return found
 
 
 if __name__ == "__main__":
-    s = load_json()
-
-    test_headers = {
-        "Content-Type": "text/html",
-        "Server": "cloudflare-nginx", 
-        "X-Shopify-Stage": "production"
-    }
-
-    test_html = """
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <meta name="generator" content="Joomla! - Open Source Content Management">
-        
-        <script src="https://connect.facebook.net/en_US/fbevents.js"></script>
-    </head>
-    <body>
-        <div id="root">Hello World</div>
-    </body>
-    </html>
-    """
-
-    res = headers_analyzer(test_headers,s)
-
-    for r in res:
-        print(f"Technology : {r['technology']} -> proof : {r['proof']}")
-
-    soup = make_soup(test_html)
-    res_2 = html_analyzer(soup,s)
-
-    for r in res_2:
-        print(f"Technology : {r['technology']} -> proof : {r['proof']}")
+   print("******")
