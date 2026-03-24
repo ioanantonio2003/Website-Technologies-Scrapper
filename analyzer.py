@@ -128,6 +128,24 @@ def html_analyzer(soup, signatures):
 
     return found
 
+def js_analyzer(window_keys, signatures):
+    found = []
+
+    key_set = set(window_keys)
+
+    for name, rules in signatures.items():
+        if "js" in rules:
+            for rule in rules['js']:
+                obj = rule.split('.')[0]
+
+                if obj in key_set:
+                    found.append({
+                        "technology": name,
+                        "proof": f"Found global JavaScript variable '{obj}' on window object"
+                    })
+                    break
+    return found
+
 
 if __name__ == "__main__":
    print("******")

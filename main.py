@@ -2,7 +2,7 @@ import pandas as pd
 import json
 import concurrent.futures
 from requester import fetch_domain
-from analyzer import load_json, make_soup, headers_analyzer, html_analyzer, cookies_analyzer
+from analyzer import load_json, make_soup, headers_analyzer, html_analyzer, cookies_analyzer, js_analyzer
 
 def normalization(domain):
     return f"https://{domain}"
@@ -28,12 +28,15 @@ def single_domain(url, signatures):
 
     headers = response['headers']
     cookies = response.get('cookies', {})
+    window_keys = response.get('window_keys', [])
     soup = make_soup(response['html_code'])
+    
 
     found = []
     found.extend(headers_analyzer(headers, signatures))
     found.extend(cookies_analyzer(cookies, signatures))
     found.extend(html_analyzer(soup, signatures))
+    found.extend(js_analyzer(window_keys, signatures))
 
     unique = {}
 

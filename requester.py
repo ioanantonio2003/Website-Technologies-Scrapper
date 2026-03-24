@@ -18,15 +18,16 @@ def fetch_domain(url):
                 page.wait_for_timeout(2000)
 
                 if not response:
-                    return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {}, "error": "NoResponse"}
+                    return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {},"window_keys": [], "error": "NoResponse"}
                     
                 if response.status >= 400:
-                     return {"url": url, "status_code": response.status, "html_code": "", "headers": {}, "cookies": {}, "error": f"HTTP {response.status}"}
+                     return {"url": url, "status_code": response.status, "html_code": "", "headers": {}, "cookies": {},"window_keys": [], "error": f"HTTP {response.status}"}
 
                 html_code = page.content()
                 headers = response.headers
                 cookies = context.cookies()
                 cookies_dict = {c['name']: c['value'] for c in cookies}
+                window_keys = page.evaluate("() => Object.keys(window)")
 
                 return {
                     "url": url,
@@ -34,18 +35,19 @@ def fetch_domain(url):
                     "html_code": html_code,
                     "headers": headers,
                     "cookies": cookies_dict,
+                    "window_keys": window_keys,
                     "error": None
                 }
             
             except PlaywrightTimeoutError:
-                return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {}, "error": "Timeout"}
+                return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {},"window_keys": [], "error": "Timeout"}
             except Exception as e:
-                return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {}, "error": "ConnectionError"}
+                return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {},"window_keys": [], "error": "ConnectionError"}
             finally:
                 browser.close()
 
     except Exception as e:
-         return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {}, "error": "Crash"}
+         return {"url": url, "status_code": None, "html_code": "", "headers": {}, "cookies": {},"window_keys": [], "error": "Crash"}
 
 if __name__ == "__main__":
     res_1 = fetch_domain("https://www.wikipedia.org/")
