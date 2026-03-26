@@ -31,7 +31,7 @@ The project is divided into 5 parts:
 ## Results
 
 * **Success Rate:** 161 / 200 unique domains successfully analyzed.
-* **Extraction Volume:** 7,249 total technologies detected across the dataset.
+* **Extraction Volume:** 7,249 total technologies detected across the dataset. [All technologies detected](results.json)
 * **Tech Stack:** 423 **unique technologies** identified (excluding identical technologies and same technologies with different versions).
 [All unique technologies](tech.txt)
 
