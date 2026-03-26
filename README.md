@@ -1,4 +1,4 @@
-### Methodology and evolution of the project
+## Methodology and evolution of the project
 
 The project is divided into 5 parts:
 
@@ -26,6 +26,14 @@ The project is divided into 5 parts:
    * I started by processing a single domain to validate the script.
    * In order to have an efficient approach, I introduced ThreadPoolExecutor, allowing multiple threads to run in parallel. Although it is fast, the resource consumption is high (especially for a project where you have a lot of data).
    * The final architecture used asyncio. Now the system launches a single Playwright browser and only opens new tabs for each site. I used semaphores to avoid overloading the processor. Semaphore(3) had much fewer Timeout errors. Even if we could put 10 workers at once for ThreadPoolExecutor, I think this is the more efficient method (if the processing power was higher, the execution time would decrease, and if there was more data, the difference in resource consumption would be significant).
+
+
+## Results
+
+* **Success Rate:** 161 / 200 unique domains successfully analyzed.
+* **Extraction Volume:** 7,249 total technologies detected across the dataset.
+* **Tech Stack:** 423 **unique technologies** identified (excluding identical technologies and same technologies with different versions).
+[All unique technologies](tech.txt)
 
 
 ## Debate topics
